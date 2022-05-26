@@ -27,7 +27,7 @@ This application uses idb and express. It also uses Babel, css-loader, style-loa
 ## Usage
 
 Code Repo: https://github.com/pmayur0680/pwa-text-editor<br>
-Live Site:
+Live Site: https://jate-text-editor22.herokuapp.com/
 
 ## License
 
